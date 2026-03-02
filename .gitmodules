@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ay-boutera/Absence-Management-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ay-boutera/Absence-Management-backend
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/ay-boutera/Absence-Management-mobile
